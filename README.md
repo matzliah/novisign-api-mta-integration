@@ -150,8 +150,7 @@ Replace `{YOUR-ACCOUNT-KEY}` with your actual **NoviSign Account Key**.
 5. Save the changes
 See video below:
 
-
-<video src="https://github.com/user-attachments/assets/fd06dffa-916e-4025-b573-0d8c28436ab5" controls="controls"></video>
+[▶ Watch: Set account key](./assets/videos/set-account-key.mp4)
 
 ## **How to Get Your NoviSign Account Key**
 
