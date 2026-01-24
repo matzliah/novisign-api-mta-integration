@@ -186,7 +186,7 @@ This step tells the player exactly where to pull real-time data from.
 
 See video of how to create Screen Configuration:
 
-<video src="https://github.com/user-attachments/assets/ed22e896-249e-4b19-be23-35088a722689" controls="controls"></video>
+https://github.com/user-attachments/assets/88e55976-e41c-40d4-9d15-86262ff7e350
 
 #### **Step 2: Organize Your Playlist**
 A playlist determines which "Creatives" (your designs) will play and in what order.
@@ -197,8 +197,7 @@ A playlist determines which "Creatives" (your designs) will play and in what ord
 
 See video of how to Edit playlist:
 
-<video src="https://github.com/user-attachments/assets/689d7efd-7b11-4b61-9179-4ebb9d950e73" controls="controls"></video>
-
+https://github.com/user-attachments/assets/7fdd0722-5f4d-4590-ab1d-05e8a4aeee82
 
 #### **Step 3: Link Configuration to Your Screen**
 This step links your API configuration to the screen, ensuring that the player automatically retrieves and applies your custom data settings upon launch.
@@ -209,8 +208,7 @@ This step links your API configuration to the screen, ensuring that the player a
 
 Video of how to link configuration:
 
-<video src="https://github.com/user-attachments/assets/8c30cd4c-ad8c-4372-819f-31113a4a25f5" controls="controls"></video>
-
+https://github.com/user-attachments/assets/ef4db2e6-b4e5-4a6e-b848-f987b69035bf
 
 ---
 
